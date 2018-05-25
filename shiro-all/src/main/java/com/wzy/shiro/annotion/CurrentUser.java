@@ -22,7 +22,7 @@ import java.lang.annotation.*;
 import com.wzy.shiro.controller.Constants;
 
 /**
- * <p>绑定当前登录的用�?</p>
+ * <p>绑定当前登录的用�?</p>
  * <p>不同于@ModelAttribute</p>
  *
  * @author Zhang Kaitao
@@ -33,7 +33,7 @@ import com.wzy.shiro.controller.Constants;
 public @interface CurrentUser {
 
     /**
-     * 当前用户在request中的名字
+     * 当前用户在request中的名字   
      *
      * @return
      */
