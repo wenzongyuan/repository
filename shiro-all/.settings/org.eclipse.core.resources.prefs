@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/wzy/shiro/controller/LoginController.java=UTF-8
+encoding//src/main/java/com/wzy/shiro/realm/UserRealm.java=UTF-8
+encoding//src/main/java/com/wzy/shiro/util/BeanUtil.java=UTF-8
+encoding//src/main/java/com/wzy/shiro/util/CompareObjectUtil.java=UTF-8
+encoding//src/main/java/com/wzy/shiro/util/PagePagination.java=UTF-8
+encoding/<project>=UTF-8
